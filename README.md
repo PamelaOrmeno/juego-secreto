@@ -15,11 +15,11 @@ Este es un juego interactivo en el que los jugadores deben adivinar un número s
 - **JavaScript (ES6+)** → Lógica del juego y validaciones.  
 
 ## 📂 Estructura del proyecto
-📂 juego-secreto
-   📄 index.html (Interfaz del juego)
-   📄 styles.css (Diseño visual del juego)
-   📄 script.js (Lógica del juego y validaciones)
-   📄 README.md (Documentación del proyecto)
+**juego-secreto**
+   - index.html (Interfaz del juego)
+   - styles.css (Diseño visual del juego)
+   - script.js (Lógica del juego y validaciones)
+   - README.md (Documentación del proyecto)
 
 ## 🎮 ¿Cómo jugar?
 1️⃣ Ingresa un número dentro del rango permitido.  
